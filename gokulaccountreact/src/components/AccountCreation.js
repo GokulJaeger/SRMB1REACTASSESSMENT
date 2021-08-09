@@ -40,6 +40,7 @@ export default function AccountCreation() {
     return (
         <div class="container">
             <div class="content">
+                <h2>Account Creation</h2>
                 <form onSubmit={handleSubmit} noValidate>
                     <div>
                         <tr>

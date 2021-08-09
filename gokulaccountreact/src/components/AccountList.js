@@ -5,8 +5,8 @@ export default function AccountList() {
         <div>
             <h1>Account List</h1>
             <div class="container">
-            <div class="content">
-                
+                <div class="content">
+
                 </div>
             </div>
         </div>
