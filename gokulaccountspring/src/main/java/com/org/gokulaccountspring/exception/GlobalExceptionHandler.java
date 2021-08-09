@@ -1,4 +1,4 @@
-package com.example.registrationaccount.exception;
+package com.org.gokulaccountspring.exception;
 
 import java.util.Date;
 

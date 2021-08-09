@@ -1,13 +1,14 @@
-package com.example.registrationaccount.controller;
+package com.org.gokulaccountspring.controller;
 
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+
 import javax.validation.Valid;
 
-import com.example.registrationaccount.exception.ResourceNotFoundException;
-import com.example.registrationaccount.model.Admin;
-import com.example.registrationaccount.repository.AdminRepository;
+import com.org.gokulaccountspring.exception.ResourceNotFoundException;
+import com.org.gokulaccountspring.model.Admin;
+import com.org.gokulaccountspring.repository.AdminRepository;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

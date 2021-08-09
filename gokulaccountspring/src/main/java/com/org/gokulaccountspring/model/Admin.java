@@ -1,4 +1,4 @@
-package com.example.registrationaccount.model;
+package com.org.gokulaccountspring.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
